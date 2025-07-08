@@ -1,34 +1,38 @@
-# js-cart-console-app
- 🛒
+# 🛒 Alışveriş Sepeti Uygulaması (Konsol Uygulaması)
 
-Bu proje, JavaScript kullanarak bir alışveriş sepeti simülasyonudur. Uygulama tamamen kullanıcıdan alınan girdilerle tarayıcı konsolu üzerinden çalışır.
+Bu proje, JavaScript ile basit bir alışveriş sepeti uygulamasıdır. Uygulama tarayıcı konsolu üzerinden çalışır ve kullanıcıdan aldığı bilgilere göre işlemler gerçekleştirir.
 
-## 📌 Özellikler
+## 📌 Amaç
 
-- Kullanıcıdan isim, yaş ve meslek bilgisi alınır.
-- Kullanıcı dilediği kadar ürün ekleyebilir.
-- Her ürünün adı ve fiyatı ayrı ayrı girilir.
-- Sepet ve toplam fiyat ekrana yazdırılır.
-- Kullanıcı isterse bir ürünü sepetten çıkarabilir.
-- Güncellenmiş sepet ve yeni toplam fiyat gösterilir.
+- Kullanıcıdan isim, yaş ve meslek bilgilerini almak
+- Ürün ve fiyat bilgilerini toplayarak sepet oluşturmak
+- Toplam fiyatı hesaplamak
+- İstenirse ürün çıkartmak ve güncel sepet ile fiyatı göstermek
 
-## 🖥️ Nasıl Kullanılır?
+## 🛠️ Kullanılan Teknolojiler
+
+- HTML
+- JavaScript (Vanilla JS)
+- Konsol (F12)
+
+## 🚀 Kullanım Adımları
 
 1. `index.html` dosyasını tarayıcıda aç.
 2. Konsolu (F12) aç.
 3. Ekrandaki yönergelere göre bilgileri doldur.
 4. Konsolda adım adım işlem çıktısını takip et.
 
-## 🧪 Ekran Görüntüsü
+## 📷 Ekran Görüntüsü
 
 Aşağıda uygulamanın çalışma anına ait bir ekran görüntüsü yer almaktadır:
 
 ![Ekran Görüntüsü](screenshot.png)
 
-
 ## 📁 Dosya Yapısı
-📦 shopping-cart-console-app
-┣ 📄 index.html
-┣ 📄 script.js
-┗ 📄 README.md
 
+shopping-cart-console-app/
+│
+├── index.html
+├── script.js
+├── screenshot.png
+└── README.md
