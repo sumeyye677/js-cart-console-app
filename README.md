@@ -23,7 +23,8 @@ Bu proje, JavaScript kullanarak bir alışveriş sepeti simülasyonudur. Uygulam
 
 Aşağıda uygulamanın çalışma anına ait bir ekran görüntüsü yer almaktadır:
 
-![Console Output Screenshot](./screenshot.png)
+![Console Output Screenshot]("C:\Users\USER\Pictures\Screenshots\Ekran görüntüsü 2025-07-08 155340.png")
+
 
 ## 📁 Dosya Yapısı
 📦 shopping-cart-console-app
